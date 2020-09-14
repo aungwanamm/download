@@ -1,1 +1,8 @@
 
+{
+    "title" : "MLiveTv Update Available",
+    "message" : "- fixed English\n - Auto Update System",
+    "versionCode" : 2,
+    "force" : false,
+    "link" : "https://github.com/stytv/download/raw/master/app/STH%20Tv%20V2.apk"
+}
